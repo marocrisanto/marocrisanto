@@ -1,5 +1,5 @@
-# pruebaegg
+# Hola, mi nombre es Omar Crisanto Juárez
 
 
-##asdasdasdasd
+## Actualmente estoy aprendiendo Java con egg cooperation.
 
